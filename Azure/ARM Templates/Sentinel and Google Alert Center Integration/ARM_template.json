@@ -154,7 +154,7 @@
                         "Impersonating": "[parameters('Impersonating')]",
                         "CredentialFileName": "[parameters('CredentialFileName')]",
                         "logAnalyticsUri": "[variables('LogAnaltyicsUri')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "toadd?raw=true"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/frozenstrawberries/automations/blob/main/Azure/ARM%20Templates/Sentinel%20and%20Google%20Alert%20Center%20Integration/SentinelandGoogleAlertCenterConnecter.zip?raw=true"
                     }
                 }
             ]
